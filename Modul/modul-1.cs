@@ -1,4 +1,4 @@
-﻿
+﻿// 2 Variant
 public enum DaysOfWeek {
     Monday, 
     Tuesday,
