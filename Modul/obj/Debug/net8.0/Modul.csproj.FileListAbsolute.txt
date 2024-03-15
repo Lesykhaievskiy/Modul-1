@@ -1,0 +1,15 @@
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/bin/Debug/net8.0/Modul
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/bin/Debug/net8.0/Modul.deps.json
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/bin/Debug/net8.0/Modul.runtimeconfig.json
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/bin/Debug/net8.0/Modul.dll
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/bin/Debug/net8.0/Modul.pdb
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.AssemblyInfoInputs.cache
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.AssemblyInfo.cs
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.csproj.CoreCompileInputs.cache
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.sourcelink.json
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.dll
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/refint/Modul.dll
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.pdb
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/Modul.genruntimeconfig.cache
+/Users/oleksiihaievskyi/Desktop/modul-1/Modul/obj/Debug/net8.0/ref/Modul.dll
